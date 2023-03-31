@@ -1,6 +1,6 @@
 Name:		texlive-ftc-notebook
 Version:	50043
-Release:	1
+Release:	2
 Summary:	Typeset FIRST Tech Challenge (FTC) notebooks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ftc-notebook
