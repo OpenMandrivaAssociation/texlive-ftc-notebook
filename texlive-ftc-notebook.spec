@@ -3,7 +3,7 @@ Version:	50043
 Release:	2
 Summary:	Typeset FIRST Tech Challenge (FTC) notebooks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ftc-notebook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ftc-notebook
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ftc-notebook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ftc-notebook.doc.r%{version}.tar.xz
